@@ -18,13 +18,13 @@ Project is created with:
 ## Preview
 
 <p>
-  <img src="one.jpg" width="200" title="hover text">
+  <img src="one.jpg" width="200" title="Splash Screen">
   
-  <img src="two.jpg" width="200" title="hover text">
+  <img src="two.jpg" width="200" title="Basic format of the Notes App">
   
-  <img src="three.jpg" width="200" title="hover text">
+  <img src="three.jpg" width="200" title="Creating a Note">
   
-  <img src="four.jpg" width="200" title="hover text">
+  <img src="four.jpg" width="200" title="Home Screen">
  
   
 </p>
