@@ -16,4 +16,4 @@ Project is created with:
 * Kotlin
 	
 ## Preview
-To run this project, install it locally using npm:
+
